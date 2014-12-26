@@ -235,7 +235,6 @@ public class MainMenu extends BookCatalogueActivity {
 	private void setOnClickListener(int id, OnClickListener l) {
 		View v = this.findViewById(id);
 		v.setOnClickListener(l);
-		v.setBackgroundResource(android.R.drawable.list_selector_background);
 	}
 
 	/**
