@@ -1,0 +1,168 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ABS 4.2.zip
+* BUILDING
+* LICENSE
+* README
+* artwork/
+* artwork/100Main.png
+* artwork/150Scrolling.png
+* artwork/200ListAuthorSeries.png
+* artwork/300ListAuthorYear.png
+* artwork/300ListDateAdded.png
+* artwork/350ListCompact.png
+* artwork/4 Books for Logo & Icon - lighter - with BG - obfuscated - names - black no alpha.png
+* artwork/4 Books for Logo & Icon - lighter - with BG - obfuscated - names - bright cloth - stretched.png
+* artwork/4 Books for Logo & Icon - lighter - with BG - obfuscated - names - bright cloth.png
+* artwork/4 Books for Logo & Icon - lighter - with BG - obfuscated - names - bright cloth.xcf
+* artwork/4 Books for Logo & Icon - lighter - with BG - obfuscated - names - only.png
+* artwork/4 Books for Logo & Icon - lighter - with BG - obfuscated - names - stretched.png
+* artwork/4 Books for Logo & Icon - lighter - with BG - obfuscated - names.png
+* artwork/4 Books for Logo & Icon - lighter - with BG - obfuscated - names.xcf
+* artwork/4 Books for Logo & Icon - lighter - with BG - obfuscated.xcf
+* artwork/4 Books for Logo & Icon - lighter - with BG.xcf
+* artwork/4 Books for Logo & Icon - lighter.xcf
+* artwork/4 Books for Logo & Icon.xcf
+* artwork/500Styles1.png
+* artwork/500Styles2.png
+* artwork/600CustomExample1-1.png
+* artwork/600CustomExample1-2.png
+* artwork/600CustomExample1-3.png
+* artwork/600CustomExample1-4.png
+* artwork/600CustomExample2.png
+* artwork/700Goodreads.png
+* artwork/800Preferences.png
+* artwork/900Scrolling.png
+* artwork/AAAREADME.txt
+* artwork/Amazon-icon.png
+* artwork/BookCatLogo.png
+* artwork/BookCatLogo2.png
+* artwork/Original Big Icon.jpg
+* artwork/Tablet_1.png
+* artwork/Tablet_2.png
+* artwork/Tablet_3.png
+* artwork/backup_icon.png
+* artwork/backup_icon.xcf
+* artwork/books_bg.png
+* artwork/closed_folder.png
+* artwork/closed_folder.xcf
+* artwork/closed_folder_back.png
+* artwork/closed_folder_back.xcf
+* artwork/elephant.svg.thumb.png
+* artwork/expander_ic_maximized.9.png
+* artwork/expander_ic_maximized.xcf
+* artwork/expander_ic_maximized_9p.9.png
+* artwork/expander_ic_maximized_api7.9.png
+* artwork/expander_ic_maximized_api7.png
+* artwork/expander_ic_maximized_api7.xcf
+* artwork/expander_ic_maximized_cut.png
+* artwork/expander_ic_maximized_square.png
+* artwork/ic_archive.png
+* artwork/ic_archive.xcf
+* artwork/ic_launcher3.xcf
+* artwork/ic_menu_agenda.png
+* artwork/ic_menu_archive.png
+* artwork/ic_menu_gallery.png
+* artwork/ic_menu_manage.png
+* artwork/ic_menu_recent_history.png
+* artwork/ic_menu_refresh.png
+* artwork/ic_menu_save.png
+* artwork/ic_menu_upload.png
+* artwork/logo_114_for_amazon.png
+* artwork/logo_150_from_google.png
+* artwork/logo_512_from_google.png
+* artwork/promo_1024x500_from_google.jpg
+* artwork/raw_add_book4.png
+* artwork/shelves.png
+* artwork/shelves2.png
+* artwork/shelves2_add.png
+* beta_instructions.txt
+* external_libs/
+* external_libs/acra-4.2.3.jar
+* external_libs/commons-codec-1.4.jar
+* external_libs/httpclient-4.1.2.jar
+* external_libs/httpcore-4.1.2.jar
+* external_libs/httpmime-4.1.2.jar
+* external_libs/signpost-commonshttp4-1.2.1.2.jar
+* external_libs/signpost-core-1.2.1.2.jar
+* external_libs/taskqueue-1.0.0.jar
+* external_libs/taskqueue-1.0.1.jar
+* external_libs/taskqueue-1.0.2.jar
+* external_libs/taskqueue-1.1.0.jar
+* external_libs/taskqueue.jar
+* marketplace_info/
+* marketplace_info/Feature.png
+* marketplace_info/Feature.xcf
+* marketplace_info/GooglePlay_Description.en.txt
+* marketplace_info/GooglePlay_Description.ru.txt
+* marketplace_info/GooglePlay_Promo.en.txt
+* marketplace_info/GooglePlay_Promo.ru.txt
+* marketplace_info/GooglePlay_RecentChanges.en.txt
+* marketplace_info/GooglePlay_RecentChanges.ru.txt
+* marketplace_info/Promo2.png
+* marketplace_info/Promo2.xcf
+* marketplace_info/Promo3.png
+* marketplace_info/Promo3.xcf
+* marketplace_info/Screenshot 1 - Book List.png
+* marketplace_info/Screenshot 2 - ReadOnly.png
+* marketplace_info/Screenshot 3 - Details edit.png
+* marketplace_info/Screenshot 4 - Notes Edit.png
+* marketplace_info/Screenshot 5 - Main Menu.png
+* marketplace_info/Screenshot 6 - Admin & Prefs.png
+* marketplace_info/Screenshot 7 - ISBN Search.png
+* marketplace_info/Screenshot 8 - Styles.png
+* marketplace_info/Screenshot 9 - Scrolling.png
+* marketplace_info/ic_launcher4-web.png
+* marketplace_info/logo high res.png
+* marketplace_info/promo.png
+* strings-book.xml
+* strings-cd.xml
+* strings-dvd.xml
+* support/
+* support/Incremental Backup Secnarios.odt
+* support/Issue XXXX (Applied 14-Dec-2012) SQLiteDatabase is closed automatically under some conditions.pdf
+* support/Read-Only Concept.odt
+* support/Read-Only Concept.pdf
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* libs/acra-4.4.0.jar => app/libs/acra-4.4.0.jar
+* libs/amazon-mobile-associates-1.0.64.0.jar => app/libs/amazon-mobile-associates-1.0.64.0.jar
+* libs/commons-codec-1.4.jar => app/libs/commons-codec-1.4.jar
+* libs/commons-compress-1.4.1.jar => app/libs/commons-compress-1.4.1.jar
+* libs/httpclient-4.1.2.jar => app/libs/httpclient-4.1.2.jar
+* libs/httpcore-4.1.2.jar => app/libs/httpcore-4.1.2.jar
+* libs/httpmime-4.1.2.jar => app/libs/httpmime-4.1.2.jar
+* libs/signpost-commonshttp4-1.2.1.2.jar => app/libs/signpost-commonshttp4-1.2.1.2.jar
+* libs/signpost-core-1.2.1.2.jar => app/libs/signpost-core-1.2.1.2.jar
+* libs/taskqueue-1.1.0.jar => app/libs/taskqueue-1.1.0.jar
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* tests/res/ => app/src/androidTest/res/
+* tests/src/ => app/src/androidTest/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
